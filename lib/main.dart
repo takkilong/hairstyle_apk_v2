@@ -1,0 +1,1 @@
+void main() => print('Hairstyle v2 ready');
